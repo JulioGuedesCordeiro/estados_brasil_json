@@ -1,0 +1,31 @@
+[
+      { "uf": "RO", "estado": "Rondônia", "codigo_estado": "11" },
+      { "uf": "AC", "estado": "Acre", "codigo_estado": "12" },
+      { "uf": "AM", "estado": "Amazonas", "codigo_estado": "13" },
+      { "uf": "RR", "estado": "Roraima", "codigo_estado": "14" },
+      { "uf": "PA", "estado": "Pará", "codigo_estado": "15" },
+      { "uf": "AP", "estado": "Amapá", "codigo_estado": "16" },
+      { "uf": "TO", "estado": "Tocantins", "codigo_estado": "17" },
+      { "uf": "MA", "estado": "Maranhão", "codigo_estado": "21" },
+      { "uf": "PI", "estado": "Piauí", "codigo_estado": "22" },
+      { "uf": "CE", "estado": "Ceará", "codigo_estado": "23" },
+      { "uf": "RN", "estado": "Rio Grande do Norte", "codigo_estado": "24" },
+      { "uf": "PB", "estado": "Paraíba", "codigo_estado": "25" },
+      { "uf": "PE", "estado": "Pernambuco", "codigo_estado": "26" },
+      { "uf": "AL", "estado": "Alagoas", "codigo_estado": "27" },
+      { "uf": "SE", "estado": "Sergipe", "codigo_estado": "28" },
+      { "uf": "BA", "estado": "Bahia", "codigo_estado": "29" },
+      { "uf": "MG", "estado": "Minas Gerais", "codigo_estado": "31" },
+      { "uf": "ES", "estado": "Espírito Santo", "codigo_estado": "32" },
+      { "uf": "RJ", "estado": "Rio de Janeiro", "codigo_estado": "33" },
+      { "uf": "SP", "estado": "São Paulo", "codigo_estado": "35" },
+      { "uf": "PR", "estado": "Paraná", "codigo_estado": "41" },
+      { "uf": "SC", "estado": "Santa Catarina", "codigo_estado": "42" },
+      { "uf": "RS", "estado": "Rio Grande do Sul", "codigo_estado": "43" },
+      { "uf": "MS", "estado": "Mato Grosso do Sul", "codigo_estado": "50" },
+      { "uf": "MT", "estado": "Mato Grosso", "codigo_estado": "51" },
+      { "uf": "GO", "estado": "Goiás", "codigo_estado": "52" },
+      { "uf": "DF", "estado": "Distrito Federal", "codigo_estado": "53" }
+    ]
+
+  
